@@ -1,0 +1,10 @@
+artifact_location: file:///F:/MLOPS/KRISH/DataScience%20Project/mlruns/0/models/m-93088329c6334f8ea947ee27988ed0c5/artifacts
+creation_timestamp: 1762917958117
+experiment_id: '0'
+last_updated_timestamp: 1762917971642
+model_id: m-93088329c6334f8ea947ee27988ed0c5
+model_type: null
+name: model
+source_run_id: 3a8ddd842790481aa1b596dd480fe5a8
+status: 2
+status_message: null

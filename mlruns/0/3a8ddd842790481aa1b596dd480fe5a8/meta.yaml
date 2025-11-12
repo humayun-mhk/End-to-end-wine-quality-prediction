@@ -1,0 +1,14 @@
+artifact_uri: file:///F:/MLOPS/KRISH/DataScience%20Project/mlruns/0/3a8ddd842790481aa1b596dd480fe5a8/artifacts
+end_time: 1762917971662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3a8ddd842790481aa1b596dd480fe5a8
+run_name: suave-panda-417
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762917957939
+status: 3
+tags: []
+user_id: humay_0to04r7
